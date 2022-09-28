@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "MobileTecnico",
+    "name": "Kogas",
     "slug": "MobileTecnico",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -25,7 +25,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "anisio.aniso"
     },
     "web": {
       "favicon": "./assets/images/favicon.png"
